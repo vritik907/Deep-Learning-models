@@ -98,5 +98,6 @@ https://github.com/vritik907/Deep-Learning-models/tree/main/Face%20Generators%20
 ---
 
 ## 📜 License
-MIT License (You may update based on your preference)
+MIT License
+
 
