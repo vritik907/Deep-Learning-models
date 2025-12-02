@@ -140,5 +140,5 @@ https://github.com/vritik907/Deep-Learning-models/tree/main/Hugging%20face
 ---
 
 ## 📜 License
-MIT License (Modify if needed)
+MIT License 
 
